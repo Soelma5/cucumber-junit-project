@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: HiOscar app title verification feature
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.569 s - in HiOscar app title verification feature
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.245 s - in HiOscar app title verification feature
